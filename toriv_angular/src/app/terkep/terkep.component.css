@@ -1,0 +1,7 @@
+.terkep{
+    background-image: url("/assets/Magyarorszag_vakterkep.JPG");
+    background-size: contain;
+    width:670px;
+    float:left;
+    height:500px;
+}
